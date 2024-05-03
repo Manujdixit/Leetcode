@@ -15,14 +15,28 @@
 
 
 //sort and check for duplicate
+// class Solution {
+// public:
+//     bool containsDuplicate(vector<int>& nums) {
+//         sort(nums.begin(),nums.end());
+//         int n=nums.size();
+//         for(int i=1;i<n;i++){
+//             if(nums[i]==nums[i-1])return true;
+//         }
+//         return false;
+//     }
+// };
+
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n=nums.size();
-        for(int i=1;i<n;i++){
-            if(nums[i]==nums[i-1])return true;
+       unordered_set<int>set;
+       for(int num:nums){
+        if(set.count(num)>0){
+            return true;
         }
-        return false;
+        set.insert(num);
+       }
+       return false;
     }
 };
