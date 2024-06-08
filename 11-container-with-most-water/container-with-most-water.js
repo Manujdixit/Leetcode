@@ -8,8 +8,8 @@ var maxArea = function (height) {
     while(l<r){
         const temp=(r-l)*Math.min(height[l], height[r])
         res=Math.max(res,temp)
-        if(height[l]>height[r])r-=1
-        else l+=1
+        if(height[l]<height[r])l++
+        else r--
     }
     return res
 };
