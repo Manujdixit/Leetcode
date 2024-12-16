@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manujdixit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Manujdixit/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
@@ -44,9 +45,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manujdixit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manujdixit/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
