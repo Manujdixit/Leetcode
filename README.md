@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manujdixit/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manujdixit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Manujdixit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manujdixit/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Manujdixit/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manujdixit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manujdixit/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
