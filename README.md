@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Manujdixit/Leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manujdixit/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manujdixit/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Manujdixit/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manujdixit/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manujdixit/Leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manujdixit/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manujdixit/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Manujdixit/Leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manujdixit/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
