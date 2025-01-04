@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0136-single-number](https://github.com/Manujdixit/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Manujdixit/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manujdixit/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manujdixit/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manujdixit/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0203-remove-linked-list-elements](https://github.com/Manujdixit/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manujdixit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manujdixit/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Manujdixit/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
