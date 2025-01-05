@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0118-pascals-triangle](https://github.com/Manujdixit/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Manujdixit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Manujdixit/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Manujdixit/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Manujdixit/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manujdixit/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Manujdixit/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Manujdixit/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
