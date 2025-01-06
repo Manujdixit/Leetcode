@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manujdixit/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Manujdixit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Manujdixit/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manujdixit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0027-remove-element](https://github.com/Manujdixit/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manujdixit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Manujdixit/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Manujdixit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Manujdixit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manujdixit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manujdixit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manujdixit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Manujdixit/Leetcode/tree/master/0118-pascals-triangle) |
 ## Simulation
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manujdixit/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Manujdixit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Manujdixit/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0134-gas-station](https://github.com/Manujdixit/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manujdixit/Leetcode/tree/master/0135-candy) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manujdixit/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
