@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Manujdixit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manujdixit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manujdixit/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Manujdixit/Leetcode/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Manujdixit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manujdixit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Manujdixit/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manujdixit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Manujdixit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manujdixit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Manujdixit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manujdixit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
